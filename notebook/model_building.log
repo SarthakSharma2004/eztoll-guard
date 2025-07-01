@@ -1,0 +1,15 @@
+2025-06-28 00:01:14 - INFO - Logging has been configured successfully
+2025-06-28 00:01:14 - INFO - Data has been loaded successfully
+2025-06-28 00:01:14 - INFO - Train - test split started !
+2025-06-28 00:01:14 - INFO - Train - test split successfull
+2025-06-28 00:01:14 - INFO - Preprocessors has been created successfully
+2025-06-28 00:01:14 - INFO - Logistic Regression has been trained successfully
+2025-06-28 00:01:14 - INFO - KNN has been trained successfully
+2025-06-28 00:01:15 - INFO - SVC has been trained successfully
+2025-06-28 00:01:15 - INFO - Gaussian NB has been trained successfully
+2025-06-28 00:13:13 - INFO - Decision Tree has been trained successfully
+2025-06-28 00:13:14 - INFO - Random Forest has been trained successfully
+2025-06-28 00:13:14 - INFO - Gradient Boosting has been trained successfully
+2025-06-28 00:13:14 - INFO - XGBoost has been trained successfully
+2025-06-28 00:13:15 - INFO - CatBoost has been trained successfully
+2025-06-28 00:13:15 - INFO - AdaBoost has been trained successfully
